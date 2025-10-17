@@ -1,0 +1,23 @@
+{
+  "short_name": "Asset Maint.",
+  "name": "Hospital Asset Maintenance",
+  "description": "A mobile-first web application for technicians to perform and track maintenance on hospital assets.",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0284c7",
+  "background_color": "#f3f4f6"
+}

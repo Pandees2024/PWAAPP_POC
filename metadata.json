@@ -1,0 +1,5 @@
+{
+  "name": "Hospital Asset Maintenance",
+  "description": "A mobile-first web application for technicians to perform and track maintenance on hospital assets, featuring a detailed view and a preventive maintenance checklist.",
+  "requestFramePermissions": []
+}
